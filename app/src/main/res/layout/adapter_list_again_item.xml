@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/space_110"
+    android:layout_height="@dimen/space_140">
+
+    <com.example.youtubemusicuiclone.component.MusicUiComponent
+        android:id="@+id/music_component"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="@dimen/space_16"
+        android:layout_marginTop="@dimen/space_16"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
